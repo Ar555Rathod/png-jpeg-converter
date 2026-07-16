@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.app { max-width: 900px; margin: 0 auto }
+.upload { border: 2px dashed #ccc; padding: 20px; text-align: center }
+.file-list { list-style: none; padding: 0 }
+.file-list li { display: flex; gap: 12px; align-items: center; padding: 8px 0 }
